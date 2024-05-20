@@ -6,8 +6,8 @@
 		"svelte",
 		"golden-layout"
 	],
-	"author": "Clemens Koza",
-	"repository": "github:SillyFreak/svelte-golden-layout",
+	"authors": ["Clemens Koza", "Frank Nocke"],
+	"repository": "github:nocke/svelte-golden-layout",
 	"license": "MIT",
 	"type": "module",
 	"scripts": {
